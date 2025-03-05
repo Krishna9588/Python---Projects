@@ -16,7 +16,7 @@ To setup the system for development on your local machine, please follow the ins
 1. Clone the repository to your machine
 
    ```bash
-   git clone 
+   git clone https://github.com/Krishna9588/Python---Projects.git 
    ```
 
 2. Run the ```AIVirtualMouse.py``` python file.
